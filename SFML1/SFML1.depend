@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1579176788 source:c:\rares~\probleme\sfml1\main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<cmath>
+	<sstream>
+	<ctime>
+	<iostream>
+	<time.h>
+
+1578432533 source:c:\rares~\probleme\sfml1\statemachine.cpp
+	"StateMachine.hpp"
+
+1578432755 c:\rares~\probleme\sfml1\statemachine.hpp
+	<memory>
+	<stack>
+	"State.hpp"
+
+1578432717 c:\rares~\probleme\sfml1\state.hpp
+
+1578501751 c:\rares~\probleme\sfml1\header.h
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<windows.h>
+	<cmath>
+	<sstream>
+	<ctime>
+	<iostream>
+
